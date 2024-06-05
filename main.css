@@ -1,0 +1,23 @@
+#hi{
+    font-size: 25px;
+}
+
+#hdr{
+    font-size: 50px;
+}
+
+#hdr1{
+    font-size: 50px;
+}
+
+.taipy-input{
+    --container-max-width: 500px;
+}
+
+#title{
+    font-size: 35px;
+}
+
+/* .taipy-text{
+    font-size: 100px;
+} */
